@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorspdate",
+        "uuid": 16320256,
+        "checksum": "icc9y8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
